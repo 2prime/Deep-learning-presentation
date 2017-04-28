@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Models}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Combat with Global Reward}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Proposed Multiagent Actor-Critic with Individual Reward}{5}{0}{1}
+\beamer@sectionintoc {2}{Experiments}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Switch Riddle}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Multi-Step MNIST}{11}{0}{2}
+\beamer@subsectionintoc {2}{3}{Colour-Digit MNIST}{12}{0}{2}
+\beamer@sectionintoc {3}{Reference}{14}{0}{3}

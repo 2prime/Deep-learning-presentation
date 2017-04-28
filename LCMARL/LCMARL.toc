@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Deep Q-Networks}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Independent DQN}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Deep recurrent Q-Networks}{5}{0}{1}
+\beamer@sectionintoc {2}{Models}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Reinforced Inter-Agent Learning(RIAL)}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Differentiable Inter-Agent Learning(DIAL)}{8}{0}{2}
+\beamer@sectionintoc {3}{Experiments}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Switch Riddle}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Multi-Step MNIST}{14}{0}{3}
+\beamer@subsectionintoc {3}{3}{Colour-Digit MNIST}{15}{0}{3}
+\beamer@sectionintoc {4}{Reference}{17}{0}{4}
