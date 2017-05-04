@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Preliminaries}{3}{0}{1}
+\beamer@sectionintoc {2}{Monotonic Improvement}{7}{0}{2}
+\beamer@sectionintoc {3}{Opt of Parameterized Policies}{10}{0}{3}
+\beamer@sectionintoc {4}{Sample-Based Estimation}{11}{0}{4}
+\beamer@sectionintoc {5}{Practical Algorithm}{13}{0}{5}
+\beamer@sectionintoc {6}{Reference}{14}{0}{6}
